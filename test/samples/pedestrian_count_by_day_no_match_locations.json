@@ -1,0 +1,23 @@
+[
+    {
+        "sensor_id": "65",
+        "year": "2016",
+        "month": "December",
+        "mdate": "8",
+        "sum_hourly_counts": "95832"
+    },
+    {
+        "sensor_id": "77",
+        "year": "2015",
+        "month": "March",
+        "mdate": "8",
+        "sum_hourly_counts": "88086"
+    },
+    {
+        "sensor_id": "3",
+        "year": "2015",
+        "month": "March",
+        "mdate": "8",
+        "sum_hourly_counts": "85375"
+    }
+]

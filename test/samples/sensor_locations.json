@@ -1,0 +1,50 @@
+[
+    {
+        "sensor_id": "38",
+        "sensor_description": "Flinders St-Swanston St (West)",
+        "sensor_name": "Swa11_T",
+        "installation_date": "2014-12-05T00:00:00.000",
+        "status": "R",
+        "note": "Device has been removed (17/02/2017)",
+        "latitude": "-37.81723437",
+        "longitude": "144.96715033",
+        "location": {
+            "latitude": "-37.81723437",
+            "longitude": "144.96715033",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    },
+    {
+        "sensor_id": "35",
+        "sensor_description": "Southbank",
+        "sensor_name": "SouthB_T",
+        "installation_date": "2021-04-15T00:00:00.000",
+        "status": "A",
+        "note": "River side",
+        "direction_1": "East",
+        "direction_2": "West",
+        "latitude": "-37.82017828",
+        "longitude": "144.96508877",
+        "location": {
+            "latitude": "-37.82017828",
+            "longitude": "144.96508877",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    },   
+    {
+        "sensor_id": "7",
+        "sensor_description": "Birrarung Marr",
+        "sensor_name": "Fed_T",
+        "installation_date": "2014-12-17T00:00:00.000",
+        "status": "A",
+        "direction_1": "East",
+        "direction_2": "West",
+        "latitude": "-37.81862929",
+        "longitude": "144.97169395",
+        "location": {
+            "latitude": "-37.81862929",
+            "longitude": "144.97169395",
+            "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+        }
+    }
+]
