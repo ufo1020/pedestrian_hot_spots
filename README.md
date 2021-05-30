@@ -72,3 +72,4 @@ latitude|longitude|sensor_id|sum_hourly_counts
 ```
 ## Unit test
 Unit tests are inside test folder. All unit tests are passed.
+![unit test results](./ref/unit-test.jpg)
